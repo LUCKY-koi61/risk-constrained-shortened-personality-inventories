@@ -1,0 +1,7 @@
+# Do not commit respondent-level data, environments, caches, or local output.
+data
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
