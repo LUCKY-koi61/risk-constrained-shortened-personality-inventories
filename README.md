@@ -64,13 +64,14 @@ parameters and are simulations rather than operational CAT evaluations.
 
 ## Manuscript alignment
 
-The frozen r7 analysis release in this repository underpins the current r10
+The frozen r7 analysis release in this repository underpins the current r12
 submission manuscript, *Risk-Constrained Evaluation of Shortened Personality
-Inventories for Fixed-Capacity Follow-Up*. The r10 revision reorganizes the
-manuscript narrative and updates its abstract and keywords; it does not add or
-alter the P0–P4 analyses, frozen derived results, or computational claims in
-this repository. See [`docs/MANUSCRIPT_ALIGNMENT.md`](docs/MANUSCRIPT_ALIGNMENT.md)
-for the analysis-to-manuscript map and scope boundary.
+Inventories for Fixed-Capacity Follow-Up*. The r12 revision reorganizes the
+manuscript narrative and refines the abstract, keywords, and method-positioning
+text; it does not add or alter the P0–P4 analyses, frozen derived results, or
+computational claims in this repository. See
+[`docs/MANUSCRIPT_ALIGNMENT.md`](docs/MANUSCRIPT_ALIGNMENT.md) for the
+analysis-to-manuscript map and scope boundary.
 
 ## Data and privacy
 
@@ -82,5 +83,5 @@ codebooks when working with the data.
 ## Release status
 
 This repository is the public reproducibility record for the frozen r7
-analysis package used by the r10 submission manuscript. It contains no
+analysis package used by the r12 submission manuscript. It contains no
 submission files, author title page, cover letter, or participant-level data.

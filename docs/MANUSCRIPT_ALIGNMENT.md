@@ -5,7 +5,7 @@
 | Item | Version |
 | --- | --- |
 | Manuscript title | *Risk-Constrained Evaluation of Shortened Personality Inventories for Fixed-Capacity Follow-Up* |
-| Current submission manuscript | r10, 18 November 2026 |
+| Current submission manuscript | r12, 18 November 2026 |
 | Reproducibility release | Frozen r7 analysis package |
 | Repository purpose | Public computational reproduction record |
 
@@ -20,7 +20,7 @@ main manuscript's fixed-capacity screening analyses and simulations:
 - P3: quota-matched oracle-CAT simulation; and
 - P4: calibration-rule comparison and failure-boundary analysis.
 
-In the r10 manuscript, these analyses support the conservative-calibration,
+In the r12 manuscript, these analyses support the conservative-calibration,
 parent-score-versus-latent-target, and IRT/CAT benchmark results. The lower
 confidence bounds are calibration selection criteria whose held-out attainment
 is evaluated empirically; they are not simultaneous, post-selection, or
@@ -28,10 +28,10 @@ distribution-free risk guarantees.
 
 ## Version boundary
 
-The r10 revision reorganizes the manuscript argument and updates the abstract
-and keywords. It does not change the frozen r7 scripts, derived results,
-random seeds, or reported numerical findings. No new analysis is required to
-reproduce the r10 manuscript's quantitative claims.
+The r12 revision reorganizes the manuscript argument and refines the abstract,
+keywords, and method-positioning text. It does not change the frozen r7
+scripts, derived results, random seeds, or reported numerical findings. No new
+analysis is required to reproduce the r12 manuscript's quantitative claims.
 
 ## Deliberate exclusions
 
